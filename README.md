@@ -47,7 +47,7 @@ Ensure you have the following dependencies installed:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/Deep-Learning-Identify-Devanagari-Character.git
+   git clone https://github.com/ruturaj0626/Deep-Learning-Identify-Devanagari-Character.git
    cd Deep-Learning-Identify-Devanagari-Character
    ```
 
